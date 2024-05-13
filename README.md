@@ -1,0 +1,1 @@
+Here is a Python code used to find values of kI and kcat/KM as well as their respective errors (95% confidence intervals). Sample experimental datasets (containing raw fluoreacence values associated with the cleavage of Opt–3) are also provided. A link to a manuscript detailing this uproach is upcoming.
