@@ -1,0 +1,9 @@
+fitted k_I [1/s] = 0.0032512322253346864
+fitted half-life [min] = 3.5532537230997687
+fitted P_inf [uM] = 9.08466493716769
+fitted I_tmin [uM] = 5.037689439000348
+95% confidence interval on fitted k_I [1/s] = 0.00020469467364315523
+STD on fitted k_I [1/s] = 0.00010443605798120166
+95% confidence interval on fitted P_inf[uM] = 0.09975295730218652
+95% confidence interval on fitted half-life [min] = 0.22370967707370115
+95% confidence interval on fitted I_tmin [uM] = 0.1094226255142198
